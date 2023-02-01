@@ -261,6 +261,12 @@ export const beers = [
     kolicina: '0,33l',
     cijena: '4,00 KM',
   },
+   {
+    naziv: 'Ožujsko Radler',
+    eng: '',
+    kolicina: '0,33l',
+    cijena: '3,00 KM',
+  },
   {
     naziv: 'Bezalkoholno pivo',
     eng: 'Nonalkoholic beer',
@@ -322,7 +328,7 @@ export const spirits = [
   {
     naziv: 'Jeger',
     eng: 'Jägermeister liquer',
-    kolicina: '0,030l',
+    kolicina: '0,03l',
     cijena: '3,00 KM',
   },
 
