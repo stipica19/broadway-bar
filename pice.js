@@ -322,7 +322,7 @@ export const spirits = [
   {
     naziv: 'Jeger',
     eng: 'Jägermeister liquer',
-    kolicina: '0,03l',
+    kolicina: '0,030l',
     cijena: '3,00 KM',
   },
 
