@@ -3,7 +3,7 @@ export let hotDrinks = [
     naziv: 'Kava',
     eng: 'Coffe',
     kolicina: '',
-    cijena: '1,50 KM',
+    cijena: '2,00 KM',
   },
   {
     naziv: 'Nesscaffe vanilija čokolada',
