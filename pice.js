@@ -9,7 +9,7 @@ export let hotDrinks = [
     naziv: 'Nesscaffe vanilija čokolada',
     eng: 'Nesscaffe vaniilla chocolate',
     kolicina: '',
-    cijena: '2,00 KM',
+    cijena: '2,50 KM',
   },
   {
     naziv: 'Nescafe 3in1',
@@ -48,61 +48,61 @@ export let softDrinks = [
     naziv: 'Prirodni sokovi',
     eng: 'natural juices',
     kolicina: '0,20l',
-    cijena: '2,50 KM',
+    cijena: '3,00 KM',
   },
   {
     naziv: 'Gazirani sokovi',
     eng: 'Carbonated juice',
     kolicina: '0,25l',
-    cijena: '2,50 KM',
+    cijena: '3,00 KM',
   },
   {
     naziv: 'Orangina',
     eng: '',
     kolicina: '0,25l',
-    cijena: '3,00 KM',
+    cijena: '3,50 KM',
   },
   {
     naziv: 'Eisberg',
     eng: '',
     kolicina: '0,25l',
-    cijena: '3,50 KM',
+    cijena: '4,00 KM',
   },
   {
     naziv: 'Red Bull',
     eng: '',
     kolicina: '0,25l',
-    cijena: '5,00 KM',
+    cijena: '6,00 KM',
   },
   {
     naziv: 'Ledeni čaj',
     eng: 'Ice Tea',
     kolicina: '0,20l',
-    cijena: '2,50 KM',
+    cijena: '3,00 KM',
   },
-  {
-    naziv: 'Pago',
-    eng: '',
-    kolicina: '0,20l',
-    cijena: '2,50 KM',
-  },
+
+
+   
+    
+    
+
   {
     naziv: 'Prirodni sok limun',
     eng: 'Natural juices lemon',
     kolicina: '0,30l',
-    cijena: '3,00 KM',
+    cijena: '2,50 KM',
   },
   {
     naziv: 'Prirodni sok grejp',
     eng: 'Natural juices grapefruit',
     kolicina: '0,30l',
-    cijena: '4,00 KM',
+    cijena: '2,50 KM',
   },
   {
     naziv: 'Prirodni sok narandža',
     eng: 'Natural juices orange',
     kolicina: '0,30l',
-    cijena: '4,00 KM',
+    cijena: '2,50 KM',
   },
   {
     naziv: 'Prirodni sok nar',
