@@ -39,7 +39,7 @@ export let hotDrinks = [
     naziv: 'Topla čokolada',
     eng: 'Hot Chocolate',
     kolicina: '',
-    cijena: '2,50 KM',
+    cijena: '3,00 KM',
   },
 ];
 
@@ -114,7 +114,7 @@ export let softDrinks = [
     naziv: 'Cedevita',
     eng: '',
     kolicina: '0,25l',
-    cijena: '2,50 KM',
+    cijena: '2,00 KM',
   },
   {
     naziv: 'Mineralna voda',
