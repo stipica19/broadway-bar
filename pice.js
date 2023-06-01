@@ -132,25 +132,20 @@ export let softDrinks = [
     naziv: 'Jana',
     eng: '',
     kolicina: '0,20l',
-    cijena: '2,00 KM',
-  },
-  {
-    naziv: 'Jana limun',
-    eng: 'Jana lemon',
-    kolicina: '0,20l',
     cijena: '2,50 KM',
   },
-  {
-    naziv: 'Jana narandža',
-    eng: 'Jana orange',
-    kolicina: '0,20l',
-    cijena: '2,50 KM',
-  },
+  
+  
+
+   
+    
+
+
 ];
 
 export const vina = [
   {
-    naziv: ' Gemišt Graševina',
+    naziv: ' Gemišt Graševina
     eng: 'Grasevina and mineral water',
     kolicina: '0,20l',
     cijena: '3,00 KM',
