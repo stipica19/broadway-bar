@@ -114,13 +114,13 @@ export let softDrinks = [
     naziv: 'Cedevita',
     eng: '',
     kolicina: '0,25l',
-    cijena: '2,00 KM',
+    cijena: '2,50 KM',
   },
   {
     naziv: 'Mineralna voda',
     eng: 'Mineral Water',
     kolicina: '0,20l',
-    cijena: '1,50 KM',
+    cijena: '2,00 KM',
   },
   {
     naziv: 'Mineralna voda',
