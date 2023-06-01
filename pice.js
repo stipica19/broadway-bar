@@ -108,7 +108,7 @@ export let softDrinks = [
     naziv: 'Prirodni sok nar',
     eng: 'Natural juices pomegranate',
     kolicina: '0,30l',
-    cijena: '4,00 KM',
+    cijena: '3,00 KM',
   },
   {
     naziv: 'Cedevita',
@@ -122,6 +122,13 @@ export let softDrinks = [
     kolicina: '0,20l',
     cijena: '2,00 KM',
   },
+    {
+    naziv: 'Sensation',
+    eng: '',
+    kolicina: '0,20l',
+    cijena: '2,50 KM',
+  },
+   
   {
     naziv: 'Mineralna voda',
     eng: 'Mineral Water',
@@ -150,17 +157,18 @@ export const vina = [
     kolicina: '0,20l',
     cijena: '3,00 KM',
   },
-  {
-    naziv: 'Graševina',
-    eng: '',
-    kolicina: '0,20l',
-    cijena: '6,00 KM',
-  },
+ 
   {
     naziv: 'Graševina',
     eng: '',
     kolicina: '1l',
     cijena: '25,00 KM',
+  },
+   {
+    naziv: 'Vino Malvazija Laguna',
+    eng: '',
+    kolicina: '0,20l',
+    cijena: '7,00 KM',
   },
 
   {
@@ -197,19 +205,13 @@ export const vina = [
     naziv: 'Chardonnay Andrija',
     eng: '',
     kolicina: '0,75l',
+    cijena: '40,00 KM',
+  },
+  {
+    naziv: 'TRS Dekan',
+    eng: '',
+    kolicina: '0,75l',
     cijena: '35,00 KM',
-  },
-  {
-    naziv: 'Vino Andrija Blatina - Vrhunsko',
-    eng: '',
-    kolicina: '0,75l',
-    cijena: '30,00 KM',
-  },
-  {
-    naziv: 'Vino Andrija Žilavka - Vrhunsko',
-    eng: '',
-    kolicina: '0,75l',
-    cijena: '30,00 KM',
   },
 ];
 
@@ -218,7 +220,7 @@ export const beers = [
     naziv: 'Bavaria',
     eng: '',
     kolicina: '0,25l',
-    cijena: '3,00 KM',
+    cijena: '3,50 KM',
   },
   {
     naziv: 'Staropramen',
@@ -236,19 +238,25 @@ export const beers = [
     naziv: 'Heineken',
     eng: '',
     kolicina: '0,33l',
-    cijena: '3,50 KM',
+    cijena: '4,00 KM',
   },
   {
     naziv: `Beck's`,
     eng: '',
     kolicina: '0,33l',
-    cijena: '3,00 KM',
+    cijena: '3,50 KM',
+  },
+  {
+    naziv: `Stella Artois`,
+    eng: '',
+    kolicina: '0,33l',
+    cijena: '4,00 KM',
   },
   {
     naziv: 'Točeno pivo',
     eng: 'Draught Beer',
     kolicina: '0,25l',
-    cijena: '2,00 KM',
+    cijena: '2,50 KM',
   },
   {
     naziv: 'Somersby',
@@ -266,7 +274,7 @@ export const beers = [
     naziv: 'Bezalkoholno pivo',
     eng: 'Nonalkoholic beer',
     kolicina: '0,33l',
-    cijena: '3,00 KM',
+    cijena: '4,00 KM',
   },
 ];
 
@@ -302,6 +310,12 @@ export const spirits = [
     kolicina: '0,03l',
     cijena: '2,50 KM',
   },
+    {
+    naziv: 'Votka Smirnoff',
+    eng: 'Vodka Smirnoff',
+    kolicina: '0,03l',
+    cijena: '3,00 KM',
+  },
   {
     naziv: 'Tequila',
     eng: '',
@@ -312,7 +326,7 @@ export const spirits = [
     naziv: 'Rum',
     eng: '',
     kolicina: '0,03l',
-    cijena: '2,00 KM',
+    cijena: '3,00 KM',
   },
   {
     naziv: 'Stock',
