@@ -152,7 +152,7 @@ export let softDrinks = [
 
 export const vina = [
   {
-    naziv: ' Gemišt Graševina
+    naziv: 'Gemišt Graševina'
     eng: 'Grasevina and mineral water',
     kolicina: '0,20l',
     cijena: '3,00 KM',
