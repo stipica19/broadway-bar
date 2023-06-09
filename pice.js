@@ -96,7 +96,7 @@ export let softDrinks = [
     naziv: 'Prirodni sok grejp',
     eng: 'Natural juices grapefruit',
     kolicina: '0,30l',
-    cijena: '2,50 KM',
+    cijena: '3,50 KM',
   },
   {
     naziv: 'Prirodni sok narandža',
