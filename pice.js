@@ -351,7 +351,7 @@ export const spirits = [
   
   {
     naziv: 'Džin Tanqueray',
-    eng: 'Gin Tangueray',
+    eng: 'Gin Tanqueray',
     kolicina: '0,03l',
     cijena: '3,00 KM',
   },
