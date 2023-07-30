@@ -342,10 +342,18 @@ export const spirits = [
   },
 
   {
-    naziv: 'Džin',
-    eng: 'Gin',
+    naziv: 'Džin Gordon',
+    eng: 'Gin Gordon',
     kolicina: '0,03l',
-    cijena: '2,50 KM',
+    cijena: '3,00 KM',
+  },
+  
+  
+  {
+    naziv: 'Džin Tanqueray',
+    eng: 'Gin Tangueray',
+    kolicina: '0,03l',
+    cijena: '3,00 KM',
   },
   {
     naziv: 'Orahovac',
