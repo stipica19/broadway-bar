@@ -21,7 +21,7 @@ export let hotDrinks = [
     naziv: 'Kapučino',
     eng: 'Cappuccino',
     kolicina: '',
-    cijena: '2,00 KM',
+    cijena: '2,50 KM',
   },
   {
     naziv: 'Nescaffe',
