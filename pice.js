@@ -1,13 +1,13 @@
 export let hotDrinks = [
   {
     naziv: 'Kava',
-    eng: 'Coffe',
+    eng: 'Coffee',
     kolicina: '',
     cijena: '2,00 KM',
   },
   {
-    naziv: 'Nesscaffe vanilija čokolada',
-    eng: 'Nesscaffe vaniilla chocolate',
+    naziv: 'Nescafe  vanilija čokolada',
+    eng: 'Nescafe vanilla chocolatee',
     kolicina: '',
     cijena: '3,00 KM',
   },
@@ -302,7 +302,7 @@ export const beers = [
   },
   {
     naziv: 'Bezalkoholno pivo',
-    eng: 'Nonalkoholic beer',
+    eng: 'Non-alcoholic beer',
     kolicina: '0,33l',
     cijena: '4,50 KM',
   },
@@ -311,13 +311,13 @@ export const beers = [
 export const spirits = [
   {
     naziv: 'Vlahovo',
-    eng: 'Vlahov liquer',
+    eng: 'Vlahov liqueur',
     kolicina: '0,03l',
     cijena: '2,00 KM',
   },
   {
     naziv: 'Pelinkovac',
-    eng: 'Pelinkovac liquer',
+    eng: 'Pelinkovac liqueur',
     kolicina: '0,03l',
     cijena: '2,00 KM',
   },
@@ -359,7 +359,7 @@ export const spirits = [
   },
   {
     naziv: 'Jeger',
-    eng: 'Jägermeister liquer',
+    eng: 'Jägermeister liqueur',
     kolicina: '0,03l',
     cijena: '3,50 KM',
   },
@@ -380,7 +380,7 @@ export const spirits = [
   },
   {
     naziv: 'Orahovac',
-    eng: 'Orahovac liquer',
+    eng: 'Orahovac liqueur',
     kolicina: '0,03l',
     cijena: '2,00 KM',
   },
@@ -392,13 +392,13 @@ export const spirits = [
   },
   {
     naziv: 'Aronija',
-    eng: 'Chokeberry liquer',
+    eng: 'Chokeberry liqueur',
     kolicina: '0,03l',
     cijena: '2,50 KM',
   },
   {
     naziv: 'Medovača',
-    eng: 'Honig liquer',
+    eng: 'Honey liqueur',
     kolicina: '0,03l',
     cijena: '2,50 KM',
   },
